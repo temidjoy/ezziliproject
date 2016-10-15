@@ -1,0 +1,10 @@
+absolute_import
+unicode_literals
+Select
+ValidationError
+get_validation_digit
+UYDepartamentSelect
+RegexField
+_
+EMPTY_VALUES
+UYCIField

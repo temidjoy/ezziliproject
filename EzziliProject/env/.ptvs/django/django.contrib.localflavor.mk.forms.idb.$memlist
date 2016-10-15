@@ -1,0 +1,12 @@
+datetime
+MK_MUNICIPALITIES
+absolute_import
+unicode_literals
+Select
+ValidationError
+MKMunicipalitySelect
+UMCNField
+MKIdentityCardNumberField
+_
+RegexField
+EMPTY_VALUES

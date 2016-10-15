@@ -1,0 +1,5 @@
+registry
+FeedlyTests
+create_oauth2_tests
+MockedResponse
+FeedlyProvider

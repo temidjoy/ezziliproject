@@ -1,0 +1,17 @@
+unicode_literals
+_
+re
+ValidationError
+CAProvinceField
+absolute_import
+sin_re
+Select
+CAProvinceSelect
+CharField
+CASocialInsuranceNumberField
+CAPhoneNumberField
+phone_digits_re
+Field
+EMPTY_VALUES
+smart_text
+CAPostalCodeField

@@ -1,0 +1,15 @@
+print_function
+DatabaseOperations
+os
+original_get_sequence_name
+connection
+sys
+warnings
+truncate_name
+cx_Oracle
+no_style
+models
+DatabaseError
+generic
+re
+NOT_PROVIDED

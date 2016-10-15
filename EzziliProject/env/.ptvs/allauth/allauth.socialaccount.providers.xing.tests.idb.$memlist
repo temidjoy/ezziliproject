@@ -1,0 +1,6 @@
+create_oauth_tests
+XingProvider
+XingTests
+unicode_literals
+MockedResponse
+registry

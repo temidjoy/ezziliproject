@@ -1,0 +1,4 @@
+django
+DEFAULT_DB_ALIAS
+MigrationHistory
+models

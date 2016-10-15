@@ -1,0 +1,14 @@
+LogEntry
+python_2_unicode_compatible
+models
+CHANGE
+unicode_literals
+_
+LogEntryManager
+smart_text
+DELETION
+ADDITION
+quote
+ContentType
+ugettext
+settings

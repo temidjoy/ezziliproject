@@ -1,0 +1,4 @@
+skipIfCustomUser
+login_required
+AuthViewsTestCase
+LoginRequiredTestCase

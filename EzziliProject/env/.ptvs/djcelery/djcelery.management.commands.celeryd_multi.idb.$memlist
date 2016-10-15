@@ -1,0 +1,5 @@
+absolute_import
+CeleryCommand
+unicode_literals
+Command
+multi

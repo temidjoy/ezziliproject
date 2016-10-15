@@ -1,0 +1,12 @@
+OAuthCallbackView
+oauth_login
+six
+oauth_callback
+TumblrProvider
+OAuthAdapter
+OAuth
+TumblrAPI
+OAuthLoginView
+TumblrOAuthAdapter
+json
+providers

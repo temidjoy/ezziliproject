@@ -1,0 +1,7 @@
+create_oauth2_tests
+registry
+absolute_import
+unicode_literals
+MockedResponse
+MailRuTests
+MailRuProvider

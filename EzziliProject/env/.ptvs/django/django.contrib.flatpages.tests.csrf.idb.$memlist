@@ -1,0 +1,8 @@
+User
+os
+TestCase
+skipIfCustomUser
+override_settings
+FlatpageCSRFTests
+Client
+settings

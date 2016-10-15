@@ -1,0 +1,15 @@
+RATES
+APEv2File
+cdata
+BitPaddedInt
+__all__
+Open
+_calc_sv8_peak
+error
+MusepackInfo
+Musepack
+MusepackHeaderError
+struct
+delete
+_calc_sv8_gain
+_parse_sv8_int

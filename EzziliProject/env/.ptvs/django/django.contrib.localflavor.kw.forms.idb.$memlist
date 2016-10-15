@@ -1,0 +1,9 @@
+KWCivilIDNumberField
+id_re
+Field
+_
+ValidationError
+date
+unicode_literals
+re
+EMPTY_VALUES

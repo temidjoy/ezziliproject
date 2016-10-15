@@ -1,0 +1,14 @@
+copy
+dispatch_table
+name
+d
+types
+deepcopy
+warnings
+DeprecationWarning
+PyStringMap
+weakref
+t
+hasattr
+Error
+error

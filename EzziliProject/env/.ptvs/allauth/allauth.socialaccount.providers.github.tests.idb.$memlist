@@ -1,0 +1,5 @@
+registry
+GitHubTests
+create_oauth2_tests
+MockedResponse
+GitHubProvider

@@ -1,0 +1,16 @@
+unicode_literals
+MXStateSelect
+six
+MXRFCField
+CURP_INCONVENIENT_WORDS
+Select
+_
+RFC_INCONVENIENT_WORDS
+re
+DATE_RE
+RegexField
+ValidationError
+STATE_CHOICES
+EMPTY_VALUES
+MXCURPField
+MXZipCodeField

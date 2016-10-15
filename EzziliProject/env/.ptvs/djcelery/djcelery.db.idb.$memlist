@@ -1,0 +1,10 @@
+get_queryset
+contextmanager
+absolute_import
+django
+atomic
+Transaction
+commit_unless_managed
+transaction
+commit_on_success
+rollback_unless_managed

@@ -1,0 +1,12 @@
+FieldError
+SuspiciousOperation
+ValidationError
+ImproperlyConfigured
+ViewDoesNotExist
+DjangoRuntimeWarning
+ObjectDoesNotExist
+MultipleObjectsReturned
+NON_FIELD_ERRORS
+MiddlewareNotUsed
+PermissionDenied
+reduce

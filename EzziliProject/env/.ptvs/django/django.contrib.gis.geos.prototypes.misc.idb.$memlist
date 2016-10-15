@@ -1,0 +1,16 @@
+POINTER
+xrange
+geos_char_p
+geos_length
+geos_distance
+check_string
+check_dbl
+GEOS_PREPARE
+__all__
+geos_area
+c_double
+dbl_from_geom
+geos_isvalidreason
+GEOM_PTR
+GEOSFunc
+c_int

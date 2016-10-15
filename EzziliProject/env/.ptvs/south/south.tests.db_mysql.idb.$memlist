@@ -1,0 +1,10 @@
+db
+TestMySQLOperations
+TestMySQLOperationsMeta
+connection
+unittest
+with_metaclass
+skipUnless
+models
+mysql
+generic

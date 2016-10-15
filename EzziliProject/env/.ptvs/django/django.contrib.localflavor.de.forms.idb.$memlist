@@ -1,0 +1,14 @@
+DEStateSelect
+id_re
+Select
+absolute_import
+Field
+re
+ValidationError
+DEIdentityCardNumberField
+DEZipCodeField
+_
+RegexField
+unicode_literals
+STATE_CHOICES
+EMPTY_VALUES

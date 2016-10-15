@@ -1,0 +1,5 @@
+registry
+BitlyProvider
+create_oauth2_tests
+MockedResponse
+BitlyTests

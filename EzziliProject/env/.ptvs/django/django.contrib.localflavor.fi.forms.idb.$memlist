@@ -1,0 +1,13 @@
+MUNICIPALITY_CHOICES
+_
+absolute_import
+Field
+re
+ValidationError
+FIZipCodeField
+FIMunicipalitySelect
+FISocialSecurityNumber
+Select
+unicode_literals
+RegexField
+EMPTY_VALUES

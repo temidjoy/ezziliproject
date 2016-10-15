@@ -1,0 +1,11 @@
+PY2
+python_2_unicode_compatible
+os
+absolute_import
+str_to_bytes
+bytes_to_str
+PY3
+itervalues
+setenv
+sys
+unicode

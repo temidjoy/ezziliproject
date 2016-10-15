@@ -1,0 +1,12 @@
+api_settings
+IMPORT_STRINGS
+six
+ISO_8601
+DEFAULTS
+unicode_literals
+import_from_string
+perform_import
+importlib
+APISettings
+USER_SETTINGS
+settings

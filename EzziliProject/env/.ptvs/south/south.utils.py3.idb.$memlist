@@ -1,0 +1,11 @@
+cStringIO
+text_type
+PY3
+raw_input
+iteritems
+with_metaclass
+StringIO
+_add_doc
+string_types
+io
+sys

@@ -1,0 +1,14 @@
+CustomUserBadRequiredFields
+AbstractBaseUser
+CustomUserNonUniqueUsername
+PermissionsMixin
+UserManager
+BaseUserManager
+ExtensionUser
+IsActiveTestUser1
+CustomUser
+AbstractUser
+CustomUserManager
+models
+CustomPermissionsUser
+CustomPermissionsUserManager

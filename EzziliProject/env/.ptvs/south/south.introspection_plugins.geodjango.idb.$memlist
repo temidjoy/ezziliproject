@@ -1,0 +1,6 @@
+django
+rules
+settings
+has_gis
+GeometryField
+add_introspection_rules

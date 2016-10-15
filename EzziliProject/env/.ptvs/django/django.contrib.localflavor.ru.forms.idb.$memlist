@@ -1,0 +1,14 @@
+RUPassportNumberField
+RURegionSelect
+absolute_import
+unicode_literals
+re
+Select
+phone_digits_re
+RUPostalCodeField
+RUAlienPassportNumberField
+RUCountySelect
+RU_COUNTY_CHOICES
+RU_REGIONS_CHOICES
+_
+RegexField

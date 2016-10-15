@@ -1,0 +1,12 @@
+REGION_CHOICES
+PERUCField
+PEDNIField
+absolute_import
+unicode_literals
+RegexField
+ValidationError
+CharField
+PERegionSelect
+_
+Select
+EMPTY_VALUES

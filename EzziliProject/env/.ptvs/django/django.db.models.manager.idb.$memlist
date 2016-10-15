@@ -1,0 +1,14 @@
+SwappedManagerDescriptor
+copy
+signals
+QuerySet
+insert_query
+EmptyManager
+router
+Manager
+EmptyQuerySet
+ManagerDescriptor
+FieldDoesNotExist
+RawQuerySet
+AbstractManagerDescriptor
+ensure_default_manager

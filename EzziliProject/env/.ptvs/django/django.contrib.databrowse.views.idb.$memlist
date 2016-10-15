@@ -1,0 +1,4 @@
+choice_detail
+choice_list
+render_to_response
+Http404

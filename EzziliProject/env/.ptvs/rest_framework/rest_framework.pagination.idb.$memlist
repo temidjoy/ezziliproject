@@ -1,0 +1,9 @@
+serializers
+DefaultObjectSerializer
+unicode_literals
+PaginationSerializerOptions
+replace_query_param
+BasePaginationSerializer
+PreviousPageField
+NextPageField
+PaginationSerializer

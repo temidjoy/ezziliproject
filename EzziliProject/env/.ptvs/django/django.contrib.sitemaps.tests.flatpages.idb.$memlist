@@ -1,0 +1,5 @@
+FlatpagesSitemapTests
+settings
+unicode_literals
+skipUnless
+SitemapTestsBase

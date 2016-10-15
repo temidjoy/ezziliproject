@@ -1,0 +1,15 @@
+create_oauth2_tests
+registry
+RequestFactory
+patch
+FacebookTests
+MockedResponse
+json
+SocialAccount
+account_settings
+override_settings
+get_user_model
+EmailAddress
+providers
+reverse
+FacebookProvider

@@ -1,0 +1,13 @@
+system_type
+fd
+__all__
+win32file
+win32con
+unlock
+LOCK_NB
+pywintypes
+LOCK_EX
+LOCK_SH
+__overlapped
+lock
+fcntl

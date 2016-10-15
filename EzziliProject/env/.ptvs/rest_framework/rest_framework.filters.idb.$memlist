@@ -1,0 +1,16 @@
+django_filters
+models
+unicode_literals
+get_model_name
+FilterSet
+SearchFilter
+guardian
+six
+ImproperlyConfigured
+DjangoObjectPermissionsFilter
+reduce
+DjangoFilterBackend
+api_settings
+BaseFilterBackend
+operator
+OrderingFilter

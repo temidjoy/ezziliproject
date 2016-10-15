@@ -1,0 +1,9 @@
+run
+HAS_GDAL
+GeometryFieldTest
+suite
+GEOSGeometry
+ValidationError
+HAS_SPATIALREFSYS
+unittest
+forms

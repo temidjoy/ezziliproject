@@ -1,0 +1,14 @@
+patterns
+WizardPageThreeForm
+absolute_import
+WizardPageOneForm
+Page1
+Page3
+Page2
+url
+ContactWizard
+urlpatterns
+WizardPageTwoForm
+TestForm
+TestWizardClass
+TestFormPreview

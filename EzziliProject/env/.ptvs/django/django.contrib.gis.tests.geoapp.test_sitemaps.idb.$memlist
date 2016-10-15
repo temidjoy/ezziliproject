@@ -1,0 +1,10 @@
+GeoSitemapTest
+zipfile
+BytesIO
+absolute_import
+TestCase
+Country
+minidom
+City
+Site
+settings

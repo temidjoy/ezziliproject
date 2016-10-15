@@ -1,0 +1,12 @@
+APIException
+math
+ParseError
+NotAcceptable
+unicode_literals
+Throttled
+NotAuthenticated
+AuthenticationFailed
+status
+UnsupportedMediaType
+MethodNotAllowed
+PermissionDenied

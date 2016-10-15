@@ -1,0 +1,6 @@
+create_oauth_tests
+TumblrProvider
+unicode_literals
+MockedResponse
+TumblrTests
+registry

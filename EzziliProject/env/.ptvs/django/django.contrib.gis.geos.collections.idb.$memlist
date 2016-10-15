@@ -1,0 +1,17 @@
+xrange
+get_pointer_arr
+MultiLineString
+GeometryCollection
+GEOSException
+capi
+MultiPoint
+Polygon
+LineString
+GEOS_PREPARE
+GEOSGeometry
+Point
+MultiPolygon
+byref
+LinearRing
+c_uint
+c_int

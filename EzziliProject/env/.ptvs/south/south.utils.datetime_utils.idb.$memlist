@@ -1,0 +1,14 @@
+datetime
+timezone
+False
+MAXYEAR
+django
+getattr
+_datetime
+date
+tzinfo
+MINYEAR
+time
+datetime_CAPI
+timedelta
+settings

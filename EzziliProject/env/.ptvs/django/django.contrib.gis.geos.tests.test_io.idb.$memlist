@@ -1,0 +1,14 @@
+run
+geos_version_info
+suite
+binascii
+GEOSGeometry
+WKTReader
+WKBReader
+six
+WKTWriter
+GEOSIOTest
+unicode_literals
+memoryview
+WKBWriter
+unittest

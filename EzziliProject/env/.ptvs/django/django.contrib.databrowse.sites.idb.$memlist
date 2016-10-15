@@ -1,0 +1,16 @@
+ModelDatabrowse
+models
+unicode_literals
+DatabrowseSite
+mark_safe
+DatabrowsePlugin
+CalendarPlugin
+render_to_response
+NotRegistered
+site
+ObjectDetailPlugin
+DefaultModelDatabrowse
+EasyModel
+FieldChoicePlugin
+http
+AlreadyRegistered

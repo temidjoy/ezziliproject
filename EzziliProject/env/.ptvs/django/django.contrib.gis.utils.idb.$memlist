@@ -1,0 +1,17 @@
+ogrinfo
+LayerMapping
+add_srs_entry
+GeoIPException
+mapping
+geoip
+GeoIP
+wkt
+LayerMapError
+precision_wkt
+ogrinspect
+add_postgis_srs
+HAS_GDAL
+sample
+srs
+HAS_GEOIP
+layermapping

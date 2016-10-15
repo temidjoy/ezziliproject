@@ -1,0 +1,10 @@
+pre_init
+pre_delete
+post_save
+m2m_changed
+class_prepared
+pre_save
+post_delete
+post_syncdb
+post_init
+Signal

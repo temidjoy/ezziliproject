@@ -1,0 +1,5 @@
+registry
+InstagramTests
+create_oauth2_tests
+MockedResponse
+InstagramProvider

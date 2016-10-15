@@ -1,0 +1,16 @@
+unicode_literals
+celery
+app
+TestDatabaseBackend
+AsyncResult
+MyPeriodicTask
+SomeClass
+absolute_import
+now
+timedelta
+PeriodicTask
+states
+gen_unique_id
+current_app
+DatabaseBackend
+unittest

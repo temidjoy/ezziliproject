@@ -1,0 +1,7 @@
+ugettext_lazy
+unicode_literals
+AuthenticationForm
+AdminAuthenticationForm
+authenticate
+forms
+ERROR_MESSAGE

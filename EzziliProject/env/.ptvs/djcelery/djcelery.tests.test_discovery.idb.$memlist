@@ -1,0 +1,8 @@
+TestDiscovery
+absolute_import
+unicode_literals
+settings
+warnings
+tasks
+unittest
+autodiscover

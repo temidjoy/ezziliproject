@@ -1,0 +1,6 @@
+csrf_failure
+CSRF_FAILURE_TEMPLATE
+Template
+Context
+settings
+HttpResponseForbidden

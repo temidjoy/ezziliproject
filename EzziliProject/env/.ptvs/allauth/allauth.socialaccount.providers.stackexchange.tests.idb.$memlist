@@ -1,0 +1,5 @@
+registry
+StackExchangeProvider
+create_oauth2_tests
+MockedResponse
+StackExchangeTests

@@ -1,0 +1,6 @@
+absolute_import
+CeleryCommand
+unicode_literals
+app
+Command
+worker

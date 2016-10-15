@@ -1,0 +1,9 @@
+oauth2_login
+requests
+FeedlyOAuth2Adapter
+unicode_literals
+OAuth2Adapter
+OAuth2LoginView
+oauth2_callback
+OAuth2CallbackView
+FeedlyProvider

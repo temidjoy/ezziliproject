@@ -1,0 +1,8 @@
+VERSION
+views
+authentication
+utils
+serializers
+models
+settings
+__version__

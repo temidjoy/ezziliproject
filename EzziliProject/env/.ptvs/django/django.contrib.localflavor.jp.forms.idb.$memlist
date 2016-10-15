@@ -1,0 +1,7 @@
+JPPrefectureSelect
+absolute_import
+_
+Select
+JPPostalCodeField
+RegexField
+JP_PREFECTURES

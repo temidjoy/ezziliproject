@@ -1,0 +1,12 @@
+check_predicate
+GEOM_PTR
+c_char
+prepared_contains
+prepared_covers
+PREPGEOM_PTR
+prepared_destroy
+prepared_intersects
+GEOSFunc
+prepared_contains_properly
+prepared_predicate
+geos_prepare

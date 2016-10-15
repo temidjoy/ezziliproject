@@ -1,0 +1,17 @@
+unicode_literals
+date
+Sitemap
+os
+SitemapTestsBase
+Site
+override_settings
+settings
+localize
+ImproperlyConfigured
+HTTPSitemapTests
+activate
+upath
+GenericSitemap
+TestModel
+skipUnless
+deactivate

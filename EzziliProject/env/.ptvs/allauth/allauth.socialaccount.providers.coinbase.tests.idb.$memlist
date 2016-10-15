@@ -1,0 +1,5 @@
+registry
+CoinbaseTests
+create_oauth2_tests
+MockedResponse
+CoinbaseProvider

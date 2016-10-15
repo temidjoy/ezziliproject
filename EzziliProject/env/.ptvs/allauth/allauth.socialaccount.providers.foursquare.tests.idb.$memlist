@@ -1,0 +1,5 @@
+registry
+FoursquareProvider
+create_oauth2_tests
+MockedResponse
+FoursquareTests

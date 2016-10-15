@@ -1,0 +1,5 @@
+registry
+HubicProvider
+create_oauth2_tests
+MockedResponse
+HubicTests

@@ -1,0 +1,9 @@
+itertools
+product
+all
+warnings
+collections
+is_iterator
+any
+is_iterable
+sys

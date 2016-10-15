@@ -1,0 +1,6 @@
+create_oauth_tests
+LinkedInProvider
+unicode_literals
+MockedResponse
+LinkedInTests
+registry

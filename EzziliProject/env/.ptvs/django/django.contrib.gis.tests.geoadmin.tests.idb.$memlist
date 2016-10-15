@@ -1,0 +1,9 @@
+GeoAdminTest
+override_settings
+absolute_import
+GEOSGeometry
+GOOGLE_MAPS_API_KEY
+Point
+TestCase
+City
+admin

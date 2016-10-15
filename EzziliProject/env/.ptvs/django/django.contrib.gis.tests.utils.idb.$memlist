@@ -1,0 +1,15 @@
+SpatialRefSys
+mysql
+pass_test
+oracle
+no_mysql
+HAS_SPATIALREFSYS
+no_oracle
+DEFAULT_DB_ALIAS
+spatialite
+no_spatialite
+no_backend
+_default_db
+no_postgis
+postgis
+settings

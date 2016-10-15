@@ -1,0 +1,15 @@
+patterns
+messages
+TEMPLATE
+HttpResponse
+urlpatterns
+never_cache
+HttpResponseRedirect
+show
+RequestContext
+Template
+show_template_response
+TemplateResponse
+add
+reverse
+add_template_response

@@ -1,0 +1,10 @@
+ogrinspect
+OGRInspectTest
+os
+absolute_import
+TestCase
+Driver
+get_ogr_db_string
+TEST_DATA
+AllOGRFields
+connections

@@ -1,0 +1,6 @@
+AuthenticationMethod
+app_settings
+EmailVerificationMethod
+sys
+AppSettings
+USER_MODEL_USERNAME_FIELD

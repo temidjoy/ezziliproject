@@ -1,0 +1,11 @@
+Migrations
+TestComparison
+InitialChanges
+freezer
+reload_module
+SchemaMigration
+AutoChanges
+TestNonManagedIgnored
+FakeORM
+Monkeypatcher
+unittest

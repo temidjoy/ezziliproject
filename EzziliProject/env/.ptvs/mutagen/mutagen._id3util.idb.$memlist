@@ -1,0 +1,13 @@
+ID3BadCompressedData
+ID3JunkFrameError
+ID3NoHeaderError
+BitPaddedInt
+ID3Warning
+ID3UnsupportedVersionError
+ID3EncryptionUnsupportedError
+error
+unsynch
+ID3BadUnsynchData
+_BitPaddedMixin
+ID3TagError
+BitPaddedLong

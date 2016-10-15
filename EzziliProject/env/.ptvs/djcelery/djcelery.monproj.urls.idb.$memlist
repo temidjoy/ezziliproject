@@ -1,0 +1,9 @@
+patterns
+handler404
+absolute_import
+unicode_literals
+admin
+urlpatterns
+handler500
+url
+include

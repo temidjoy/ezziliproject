@@ -1,0 +1,12 @@
+celery
+BaseCommand
+absolute_import
+django
+VALIDATE_MODELS
+CeleryCommand
+DB_SHARED_THREAD
+patch_thread_ident
+unicode_literals
+setenv
+sys
+djcelery

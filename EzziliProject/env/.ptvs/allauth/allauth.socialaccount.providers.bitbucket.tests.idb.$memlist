@@ -1,0 +1,5 @@
+create_oauth_tests
+BitbucketProvider
+registry
+MockedResponse
+BitbucketTests

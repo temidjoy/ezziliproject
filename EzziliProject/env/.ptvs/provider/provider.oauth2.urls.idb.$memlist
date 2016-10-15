@@ -1,0 +1,9 @@
+patterns
+login_required
+Authorize
+AccessTokenView
+csrf_exempt
+url
+Redirect
+urlpatterns
+Capture

@@ -1,0 +1,12 @@
+VKOAuth2Adapter
+get_adapter
+requests
+VKProvider
+OAuth2Adapter
+SocialAccount
+oauth2_login
+OAuth2LoginView
+SocialLogin
+OAuth2CallbackView
+USER_FIELDS
+oauth2_callback

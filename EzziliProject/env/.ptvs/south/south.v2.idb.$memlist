@@ -1,0 +1,5 @@
+DataMigration
+SchemaMigration
+BaseMigration
+FakeModel
+ask_for_it_by_name

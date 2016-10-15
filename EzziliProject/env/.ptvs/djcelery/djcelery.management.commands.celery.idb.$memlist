@@ -1,0 +1,7 @@
+celery
+absolute_import
+unicode_literals
+app
+Command
+base
+CeleryCommand

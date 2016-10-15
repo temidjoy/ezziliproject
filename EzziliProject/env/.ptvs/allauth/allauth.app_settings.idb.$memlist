@@ -1,0 +1,5 @@
+ImproperlyConfigured
+settings
+SOCIALACCOUNT_ENABLED
+USER_MODEL
+LOGIN_REDIRECT_URL

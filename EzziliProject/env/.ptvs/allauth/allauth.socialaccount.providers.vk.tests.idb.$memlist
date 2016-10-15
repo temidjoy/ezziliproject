@@ -1,0 +1,6 @@
+absolute_import
+VKTests
+registry
+MockedResponse
+VKProvider
+create_oauth2_tests

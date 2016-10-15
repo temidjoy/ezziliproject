@@ -1,0 +1,10 @@
+REGION_CHOICES
+absolute_import
+unicode_literals
+_
+Select
+DISTRICT_CHOICES
+SKRegionSelect
+SKPostalCodeField
+RegexField
+SKDistrictSelect

@@ -1,0 +1,7 @@
+patterns
+views
+absolute_import
+unicode_literals
+urlpatterns
+task_pattern
+url

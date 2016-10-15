@@ -1,0 +1,6 @@
+django
+SimpleTemplateResponse
+six
+unicode_literals
+Response
+STATUS_CODE_TEXT
